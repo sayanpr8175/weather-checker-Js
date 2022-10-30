@@ -1,4 +1,4 @@
-const key = 'XNy6HdSezvGMGUcbf7vIGdBHUX9911EB';
+const key = '{APIKEY FROM ACCUWEATHER}';
 
 
 const getWeather = async (id) => {
