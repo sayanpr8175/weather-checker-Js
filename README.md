@@ -13,4 +13,4 @@ This app I built while learning JavaScript, following tutorial videos
 
 
 ## App's snapshot
-<div align="center"> <img style="margin: 10px;"  src="https://github.com/sayanpr8175/weather-checker-Js/blob/68cb44b37f60baebf6155b765c85c51c85314711/weatherCheckerapp.PNG" alt="CSS3" height="490" width="850" />  </div>
+<div align="center"> <img style="margin: 10px;"  src="https://github.com/sayanpr8175/weather-checker-Js/blob/68cb44b37f60baebf6155b765c85c51c85314711/weatherCheckerapp.PNG" alt="CSS3" height="510" width="850" />  </div>
